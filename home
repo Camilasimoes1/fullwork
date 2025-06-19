@@ -1,0 +1,1462 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;600&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@400;600;700;800&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JejuGothic:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="work">
+    		<b class="fullworks-rh">Fullworks RH</b>
+    		<div class="component-1">
+      			<div class="solues">Soluções</div>
+    		</div>
+    		<div class="component-2">
+      			<div class="solues">Serviços</div>
+    		</div>
+    		<div class="component-21">
+      			<div class="solues">Clientes</div>
+    		</div>
+    		<div class="component-22">
+      			<div class="solues">Parceiros</div>
+    		</div>
+    		<div class="component-3">
+      			<div class="solues">Educação</div>
+    		</div>
+    		<div class="component-4">
+      			<div class="solues">Sobre nós</div>
+    		</div>
+    		<div class="component-6">
+      			<div class="component-6-child">
+      			</div>
+      			<div class="login">Login</div>
+    		</div>
+    		<div class="work-child">
+    		</div>
+    		<img class="captura-de-tela-2024-06-08-124" alt="" src="Captura de tela 2024-06-08 124247 1.png">
+    		
+    		<div class="terceirizar-rh-com">Terceirizar RH com o Fullworks pode economizar tempo e dinheiro.</div>
+    		<div class="obtenha-solues-de">Obtenha soluções de RH de serviço completo, para que você tenha tempo de volta para se concentrar em seu negócio, seus funcionários recebam suporte de RH e sua empresa ganhe a orientação de RH de que precisa.</div>
+    		<div class="component-8">
+      			<div class="component-8-child">
+      			</div>
+      			<div class="comear">Começar</div>
+    		</div>
+    		<div class="somos-o-seu">Somos o seu provedor para o crescimento, sucesso e paz de espírito. Oferecemos serviços abrangentes de RH, para que você possa se concentrar em seu negócio e pessoas.</div>
+    		<div class="servios-de-rh">Serviços de RH que oferecemos</div>
+    		<div class="work-item">
+    		</div>
+    		<img class="captura-de-tela-2024-06-09-115" alt="" src="Captura de tela 2024-06-09 115351 1.png">
+    		
+    		<div class="envolva-sua-equipe">Envolva sua equipe</div>
+    		<div class="mantenha-sua-equipe">Mantenha sua equipe motivada e engajada com nossas ofertas de benefícios.</div>
+    		<img class="captura-de-tela-2024-06-09-120" alt="" src="Captura de tela 2024-06-09 120018 1.png">
+    		
+    		<div class="economize-mais-tempo">Economize mais tempo</div>
+    		<div class="libere-seu-tempo">Libere seu tempo para iniciativas estratégicas com nosso software de RH para melhorar a produtividade.</div>
+    		<img class="captura-de-tela-2024-06-09-1201" alt="" src="Captura de tela 2024-06-09 120248 1.png">
+    		
+    		<div class="promova-a-reduo">Promova a redução de custos</div>
+    		<div class="contraponha-os-custos">Contraponha os custos gerais e otimize seu orçamento.</div>
+    		<div class="work-inner">
+    		</div>
+    		<div class="saiba-como-as">Saiba como as soluções abrangentes de RH do Fullworks RH podem ajudar sua universidade.</div>
+    		<div class="component-211">
+      			<div class="component-21-child">
+      			</div>
+    		</div>
+    		<div class="component-23">
+      			<div class="component-21-child">
+      			</div>
+    		</div>
+    		<div class="component-25">
+      			<div class="component-21-child">
+      			</div>
+    		</div>
+    		<div class="fullworks-rh1">Fullworks RH</div>
+    		<div class="servios">Serviços</div>
+    		<div class="component-36">
+      			<div class="soluoes">Expertise em RH </div>
+    		</div>
+    		<div class="component-37">
+      			<div class="soluoes">Benefícios</div>
+    		</div>
+    		<div class="component-38">
+      			<div class="soluoes">Serviços de folha de pagamento</div>
+    		</div>
+    		<div class="component-40">
+      			<div class="soluoes">Plataforma tecnológica</div>
+    		</div>
+    		<div class="soluoes4">Soluçoes</div>
+    		<div class="component-32">
+      			<div class="soluoes">Plataforma de RH </div>
+    		</div>
+    		<div class="component-34">
+      			<div class="soluoes">Estágio de negócio</div>
+    		</div>
+    		<div class="clientes">Clientes</div>
+    		<div class="component-42">
+      			<div class="soluoes">Historias </div>
+    		</div>
+    		<div class="component-45">
+      			<div class="soluoes">Referência um cliente</div>
+    		</div>
+    		<div class="parceiros">Parceiros</div>
+    		<div class="component-47">
+      			<div class="soluoes">Brokers </div>
+    		</div>
+    		<div class="component-48">
+      			<div class="soluoes">Contadores</div>
+    		</div>
+    		<div class="insights">Insights</div>
+    		<div class="component-52">
+      			<div class="soluoes">Benefícios</div>
+    		</div>
+    		<div class="component-54">
+      			<div class="soluoes">Conformidade</div>
+    		</div>
+    		<div class="component-55">
+      			<div class="soluoes">Essenciais de RH</div>
+    		</div>
+    		<div class="component-56">
+      			<div class="soluoes">Folha de pagamentos</div>
+    		</div>
+    		<div class="component-57">
+      			<div class="soluoes">Terceirização de RH</div>
+    		</div>
+    		<div class="todos-os-recursos">Todos os recursos</div>
+    		<div class="component-59">
+      			<div class="soluoes">Eventos e webinars</div>
+    		</div>
+    		<div class="component-61">
+      			<div class="soluoes">Ferramentas de RH</div>
+    		</div>
+    		<div class="sobre">Sobre</div>
+    		<div class="component-62">
+      			<div class="soluoes">Fullworks</div>
+    		</div>
+    		<div class="component-63">
+      			<div class="soluoes">Empregos</div>
+    		</div>
+    		<div class="component-64">
+      			<div class="soluoes">Notícias e impresa</div>
+    		</div>
+    		<div class="component-65">
+      			<div class="soluoes">Lideranças</div>
+    		</div>
+    		<div class="component-68">
+    		</div>
+    		<div class="component-69">
+      			<div class="soluoes">Relações com investidores</div>
+    		</div>
+    		<div class="component-70">
+      			<div class="soluoes">Referência um cliente</div>
+    		</div>
+    		<div class="contato">Contato</div>
+    		<div class="component-71">
+      			<div class="soluoes">Fala conosco</div>
+    		</div>
+    		<div class="component-72">
+      			<div class="soluoes">Suporte</div>
+    		</div>
+    		<div class="component-74">
+      			<div class="captura-de-tela-2024-08-02-221-parent">
+        				<img class="captura-de-tela-2024-08-02-221" alt="" src="Captura de tela 2024-08-02 221727 1.png">
+        				
+        				<img class="captura-de-tela-2024-08-02-2211" alt="" src="Captura de tela 2024-08-02 221739 1.png">
+        				
+        				<img class="captura-de-tela-2024-08-02-2212" alt="" src="Captura de tela 2024-08-02 221757 1.png">
+        				
+      			</div>
+    		</div>
+    		<div class="component-19frame-3">
+      			<img class="component-19frame-3-child" alt="" src="Rectangle 31.png">
+      			
+      			<div class="component-19frame-3-item">
+      			</div>
+      			<div class="plataforma-tecnolgica">Plataforma Tecnológica</div>
+      			<div class="acesse-nossa-abrangente">Acesse nossa abrangente plataforma de RH para gerenciar todo o ciclo de vida do funcionário, desde o recrutamento e integração até o processamento da folha de pagamento e administração de benefícios. Temos tudo a ver com maximizar a maneira como você faz a administração de RH para sua pequena e média empresa.</div>
+    		</div>
+    		<div class="component-20frame-3">
+      			<img class="component-19frame-3-child" alt="" src="Rectangle 30.png">
+      			
+      			<div class="component-19frame-3-item">
+      			</div>
+      			<div class="compliance-de-rh">Compliance de RH e Mitigação de Riscos</div>
+      			<div class="proteja-sua-empresa">Proteja sua empresa e ganhe confiança de que as complexas regulamentações e conformidades relacionadas ao emprego são cumpridas e verificadas.</div>
+    		</div>
+    		<div class="component-17frame-3">
+      			<img class="component-19frame-3-child" alt="" src="Rectangle 31.png">
+      			
+      			<div class="component-19frame-3-item">
+      			</div>
+      			<div class="servios-de-folha">Serviços de Folha de Pagamento</div>
+      			<div class="acesse-uma-soluo">Acesse uma solução de processamento de folha de pagamento simples, mas poderosa, para gerenciar a folha de pagamento e navegar em códigos fiscais em evolução.</div>
+    		</div>
+    		<div class="component-16frame-3">
+      			<img class="component-16frame-3-child" alt="" src="Rectangle 28.png">
+      			
+      			<div class="component-16frame-3-item">
+      			</div>
+      			<div class="benefcios">Benefícios</div>
+      			<div class="acesse-os-benefcios">Acesse os benefícios de grandes empresas que ajudam você a competir pelos melhores talentos.</div>
+    		</div>
+    		<div class="component-14frame-3">
+      			<img class="component-16frame-3-child" alt="" src="Rectangle 26.png">
+      			
+      			<div class="component-16frame-3-item">
+      			</div>
+      			<div class="expertise-em-rh">Expertise em RH</div>
+      			<div class="conte-com-nossa">Conte com nossa equipe especializada de profissionais e consultores de RH para ajudá-lo a orientar até mesmo suas responsabilidades de RH mais complexas.</div>
+    		</div>
+    		<div class="banner-4">
+      			<div class="acesse-nossa-abrangente1">Acesse nossa abrangente plataforma de RH para gerenciar todo o ciclo de vida do funcionário, desde o recrutamento e integração até o processamento da folha de pagamento e administração de benefícios. Temos tudo a ver com maximizar a maneira como você faz a administração de RH para sua pequena e média empresa.</div>
+      			<div class="plataforma-digital">Plataforma Digital</div>
+      			<div class="banner-4-child">
+      			</div>
+      			<div class="notebook-ban-laptop-1-parent">
+        				<img class="notebook-ban-laptop-1-icon" alt="" src="notebook-ban-laptop 1.png">
+        				
+        				<img class="ae806e991bda08a9131d6fa9d7129-icon" alt="" src="911ae806e991bda08a9131d6fa9d7129 1.png">
+        				
+      			</div>
+      			<div class="component-7">
+        				<div class="component-8-child">
+        				</div>
+        				<div class="comear">Assista a DEMO</div>
+      			</div>
+      			<img class="notebook-ban-mobile-1-icon" alt="" src="notebook-ban-mobile 1.png">
+      			
+      			<img class="ff60552d517e4ec7c39e16988bccb2-icon" alt="" src="2ff60552d517e4ec7c39e16988bccb2b 1.png">
+      			
+    		</div>
+    		<div class="acesse-nossa-abrangente2">Acesse nossa abrangente plataforma de RH para gerenciar todo o ciclo de vida do funcionário, desde o recrutamento e integração até o processamento da folha de pagamento e administração de benefícios. Temos tudo a ver com maximizar a maneira como você faz a administração de RH para sua pequena e média empresa.</div>
+    		<div class="plataforma-digital1">Plataforma Digital</div>
+    		<div class="component-73">
+      			<div class="component-8-child">
+      			</div>
+      			<div class="comear">Assista a DEMO</div>
+    		</div>
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="notebook-ban-laptop-1-group">
+      			<img class="notebook-ban-laptop-1-icon" alt="" src="notebook-ban-laptop 1.png">
+      			
+      			<img class="ae806e991bda08a9131d6fa9d7129-icon" alt="" src="911ae806e991bda08a9131d6fa9d7129 1.png">
+      			
+    		</div>
+    		<img class="notebook-ban-mobile-1-icon1" alt="" src="notebook-ban-mobile 1.png">
+    		
+    		<img class="ff60552d517e4ec7c39e16988bccb2-icon1" alt="" src="2ff60552d517e4ec7c39e16988bccb2b 1.png">
+    		
+    		<b class="que-solues-podemos">Que soluções podemos oferecer?</b>
+    		<div class="voc-no-precisa">Você não precisa arcar sozinho com as tarefas de RH. Nossa ampla gama de serviços e experiência alivia a carga do RH, para que você possa redirecionar seu foco para onde é mais importante: o crescimento de seus negócios e cultura.</div>
+    		<div class="work-child1">
+    		</div>
+    		<div class="transforme-seu-rh">Transforme seu RH em um poderoso ativo de negócios. Nossa solução PEO faz mais do que processar a folha de pagamento e fornecer acesso a benefícios, ela lhe dá tranquilidade e liberdade para inovar.</div>
+    		<div class="component-11">
+      			<img class="component-11-child" alt="" src="Rectangle 9.png">
+      			
+      			<div class="component-11-item">
+      			</div>
+      			<div class="mais-detalhes">Mais detalhes</div>
+    		</div>
+    		<div class="work-child2">
+    		</div>
+    		<div class="nossa-plataforma-de">Nossa plataforma de RH mais os serviços terceirizados de RH que sua empresa precisa para prosperar.</div>
+    		<div class="component-9">
+      			<img class="component-11-child" alt="" src="Rectangle 9.png">
+      			
+      			<div class="component-11-item">
+      			</div>
+      			<div class="mais-detalhes">Mais detalhes</div>
+    		</div>
+    		<div class="work-child3">
+    		</div>
+    		<div class="ao-conectar-rh">Ao conectar RH, benefícios e processamento de folha de pagamento em uma única plataforma, sua equipe obtém tempo de volta e insights necessários para se concentrar em iniciativas mais estratégicas.</div>
+    		<div class="component-10">
+      			<img class="component-11-child" alt="" src="Rectangle 9.png">
+      			
+      			<div class="component-11-item">
+      			</div>
+      			<div class="mais-detalhes">Mais detalhes</div>
+    		</div>
+    		<div class="component-73frame-4">
+      			<div class="captura-de-tela-2024-08-02-221-group">
+        				<img class="captura-de-tela-2024-08-02-221" alt="" src="Captura de tela 2024-08-02 221727 1.png">
+        				
+        				<img class="captura-de-tela-2024-08-02-2211" alt="" src="Captura de tela 2024-08-02 221739 1.png">
+        				
+        				<img class="captura-de-tela-2024-08-02-2212" alt="" src="Captura de tela 2024-08-02 221757 1.png">
+        				
+      			</div>
+    		</div>
+    		<img class="captura-de-tela-2024-08-03-172" alt="" src="Captura de tela 2024-08-03 172608 1.png">
+    		
+  	</div>
+  	
+  	
+  	<style>
+		.fullworks-rh {
+  	position: absolute;
+  	top: 59px;
+  	left: 21px;
+  	font-size: 40px;
+  	display: inline-block;
+  	font-family: Inter;
+  	color: #000;
+  	width: 309px;
+  	height: 57px;
+}
+.solues {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+}
+.component-1 {
+  	position: absolute;
+  	top: 75px;
+  	left: 330px;
+  	width: 104px;
+  	height: 29px;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Inter;
+}
+.component-2 {
+  	position: absolute;
+  	top: 75px;
+  	left: 465px;
+  	width: 104px;
+  	height: 29px;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Inter;
+}
+.component-21 {
+  	position: absolute;
+  	top: 75px;
+  	left: 600px;
+  	width: 104px;
+  	height: 29px;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Inter;
+}
+.component-22 {
+  	position: absolute;
+  	top: 75px;
+  	left: 735px;
+  	width: 104px;
+  	height: 29px;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Inter;
+}
+.component-3 {
+  	position: absolute;
+  	top: 75px;
+  	left: 870px;
+  	width: 104px;
+  	height: 29px;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Inter;
+}
+.component-4 {
+  	position: absolute;
+  	top: 75px;
+  	left: 1005px;
+  	width: 104px;
+  	height: 29px;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Inter;
+}
+.component-6-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 16px;
+  	background-color: #fff;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+}
+.login {
+  	position: absolute;
+  	top: 24.07%;
+  	left: 30.43%;
+}
+.component-6 {
+  	position: absolute;
+  	top: 67px;
+  	left: 1198px;
+  	width: 137px;
+  	height: 42px;
+  	color: #000;
+  	font-family: Inter;
+}
+.work-child {
+  	position: absolute;
+  	top: 170px;
+  	left: 0px;
+  	background-color: #090629;
+  	width: 1440px;
+  	height: 655px;
+}
+.captura-de-tela-2024-06-08-124 {
+  	position: absolute;
+  	top: 170px;
+  	left: 877px;
+  	width: 563px;
+  	height: 655px;
+  	object-fit: cover;
+}
+.terceirizar-rh-com {
+  	position: absolute;
+  	top: 235px;
+  	left: 39px;
+  	font-size: 48px;
+  	font-weight: 500;
+  	font-family: Inter;
+  	display: inline-block;
+  	width: 721px;
+  	height: 168px;
+}
+.obtenha-solues-de {
+  	position: absolute;
+  	top: 427px;
+  	left: 39px;
+  	font-size: 32px;
+  	font-family: Inter;
+  	display: inline-block;
+  	width: 813px;
+  	height: 208px;
+}
+.component-8-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 23px;
+  	background-color: #090629;
+  	border: 4px solid #a67e6a;
+  	box-sizing: border-box;
+}
+.comear {
+  	position: absolute;
+  	top: 16.67%;
+  	left: 21.05%;
+  	font-weight: 600;
+}
+.component-8 {
+  	position: absolute;
+  	top: 682px;
+  	left: 354px;
+  	width: 171px;
+  	height: 54px;
+  	font-size: 24px;
+  	font-family: Kanit;
+}
+.somos-o-seu {
+  	position: absolute;
+  	top: 3708px;
+  	left: 128px;
+  	font-size: 24px;
+  	font-weight: 300;
+  	font-family: Kanit;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 1168px;
+  	height: 101px;
+}
+.servios-de-rh {
+  	position: absolute;
+  	top: 3555px;
+  	left: 381px;
+  	font-size: 48px;
+  	font-weight: 600;
+  	font-family: Kanit;
+  	color: #000;
+}
+.work-item {
+  	position: absolute;
+  	top: 780px;
+  	left: 245px;
+  	box-shadow: 0px 4px 18.4px rgba(0, 0, 0, 0.4);
+  	border-radius: 13px;
+  	background-color: #fff;
+  	width: 988px;
+  	height: 338px;
+}
+.captura-de-tela-2024-06-09-115 {
+  	position: absolute;
+  	top: 802px;
+  	left: 665px;
+  	width: 108px;
+  	height: 75px;
+  	object-fit: cover;
+}
+.envolva-sua-equipe {
+  	position: absolute;
+  	top: 903px;
+  	left: 629px;
+  	font-size: 19px;
+  	line-height: 144.41%;
+  	font-weight: 600;
+  	font-family: Jost;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 180px;
+  	height: 26px;
+}
+.mantenha-sua-equipe {
+  	position: absolute;
+  	top: 955px;
+  	left: 612px;
+  	font-size: 19px;
+  	line-height: 144.41%;
+  	font-family: Jost;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 214px;
+  	height: 113px;
+}
+.captura-de-tela-2024-06-09-120 {
+  	position: absolute;
+  	top: 802px;
+  	left: 337px;
+  	width: 102px;
+  	height: 75px;
+  	object-fit: cover;
+}
+.economize-mais-tempo {
+  	position: absolute;
+  	top: 897px;
+  	left: 287px;
+  	font-size: 19px;
+  	line-height: 144.41%;
+  	font-weight: 600;
+  	font-family: Jost;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 206px;
+  	height: 26px;
+}
+.libere-seu-tempo {
+  	position: absolute;
+  	top: 935px;
+  	left: 286px;
+  	font-size: 19px;
+  	line-height: 144.41%;
+  	font-family: Jost;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 209px;
+  	height: 113px;
+}
+.captura-de-tela-2024-06-09-1201 {
+  	position: absolute;
+  	top: 805px;
+  	left: 999px;
+  	width: 101px;
+  	height: 72px;
+  	object-fit: cover;
+}
+.promova-a-reduo {
+  	position: absolute;
+  	top: 910px;
+  	left: 951px;
+  	font-size: 19px;
+  	line-height: 144.41%;
+  	font-weight: 600;
+  	font-family: Jost;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 198px;
+  	height: 53px;
+}
+.contraponha-os-custos {
+  	position: absolute;
+  	top: 975px;
+  	left: 943px;
+  	font-size: 19px;
+  	line-height: 144.41%;
+  	font-family: Jost;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 211px;
+  	height: 93px;
+}
+.work-inner {
+  	position: absolute;
+  	top: 5726px;
+  	left: -10px;
+  	background-color: #090629;
+  	width: 1453px;
+  	height: 2325px;
+}
+.saiba-como-as {
+  	position: absolute;
+  	top: 5840px;
+  	left: 311px;
+  	font-size: 32px;
+  	font-weight: 600;
+  	font-family: Kanit;
+  	text-align: center;
+  	display: inline-block;
+  	width: 868px;
+  	height: 114px;
+}
+.component-21-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 8px;
+  	background-color: rgba(217, 217, 217, 0);
+}
+.component-211 {
+  	position: absolute;
+  	top: 6070px;
+  	left: 575px;
+  	background-color: rgba(167, 162, 162, 0);
+  	width: 312px;
+  	height: 32px;
+}
+.component-23 {
+  	position: absolute;
+  	top: 6236px;
+  	left: 725px;
+  	background-color: rgba(167, 162, 162, 0);
+  	width: 312px;
+  	height: 32px;
+}
+.component-25 {
+  	position: absolute;
+  	top: 6406px;
+  	left: 599px;
+  	background-color: rgba(167, 162, 162, 0);
+  	width: 312px;
+  	height: 32px;
+}
+.fullworks-rh1 {
+  	position: absolute;
+  	top: 6834px;
+  	left: 58px;
+  	font-size: 64px;
+  	font-family: Inter;
+}
+.servios {
+  	position: absolute;
+  	top: 6976px;
+  	left: 114px;
+  	font-size: 32px;
+}
+.soluoes {
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
+}
+.component-36 {
+  	position: absolute;
+  	top: 7034px;
+  	left: 114px;
+  	width: 188px;
+  	height: 26px;
+}
+.component-37 {
+  	position: absolute;
+  	top: 7083px;
+  	left: 114px;
+  	width: 123px;
+  	height: 26px;
+}
+.component-38 {
+  	position: absolute;
+  	top: 7132px;
+  	left: 114px;
+  	width: 362px;
+  	height: 26px;
+}
+.component-40 {
+  	position: absolute;
+  	top: 7175px;
+  	left: 114px;
+  	width: 262px;
+  	height: 26px;
+}
+.soluoes4 {
+  	position: absolute;
+  	top: 6975px;
+  	left: 486px;
+  	font-size: 32px;
+}
+.component-32 {
+  	position: absolute;
+  	top: 7034px;
+  	left: 486px;
+  	width: 331px;
+  	height: 26px;
+}
+.component-34 {
+  	position: absolute;
+  	top: 7083px;
+  	left: 486px;
+  	width: 214px;
+  	height: 26px;
+}
+.clientes {
+  	position: absolute;
+  	top: 6976px;
+  	left: 788px;
+  	font-size: 32px;
+}
+.component-42 {
+  	position: absolute;
+  	top: 7034px;
+  	left: 788px;
+  	width: 107px;
+  	height: 26px;
+}
+.component-45 {
+  	position: absolute;
+  	top: 7068px;
+  	left: 788px;
+  	width: 200px;
+  	height: 26px;
+}
+.parceiros {
+  	position: absolute;
+  	top: 6976px;
+  	left: 1079px;
+  	font-size: 32px;
+}
+.component-47 {
+  	position: absolute;
+  	top: 7034px;
+  	left: 1079px;
+  	width: 85px;
+  	height: 26px;
+}
+.component-48 {
+  	position: absolute;
+  	top: 7083px;
+  	left: 1079px;
+  	width: 188px;
+  	height: 26px;
+}
+.insights {
+  	position: absolute;
+  	top: 7401px;
+  	left: 114px;
+  	font-size: 32px;
+}
+.component-52 {
+  	position: absolute;
+  	top: 7461px;
+  	left: 114px;
+  	width: 188px;
+  	height: 26px;
+}
+.component-54 {
+  	position: absolute;
+  	top: 7508px;
+  	left: 114px;
+  	width: 188px;
+  	height: 26px;
+}
+.component-55 {
+  	position: absolute;
+  	top: 7553px;
+  	left: 114px;
+  	width: 188px;
+  	height: 26px;
+}
+.component-56 {
+  	position: absolute;
+  	top: 7601px;
+  	left: 114px;
+  	width: 188px;
+  	height: 26px;
+}
+.component-57 {
+  	position: absolute;
+  	top: 7649px;
+  	left: 114px;
+  	width: 188px;
+  	height: 26px;
+}
+.todos-os-recursos {
+  	position: absolute;
+  	top: 7401px;
+  	left: 476px;
+  	font-size: 32px;
+}
+.component-59 {
+  	position: absolute;
+  	top: 7461px;
+  	left: 480px;
+  	width: 188px;
+  	height: 26px;
+}
+.component-61 {
+  	position: absolute;
+  	top: 7510px;
+  	left: 480px;
+  	width: 188px;
+  	height: 26px;
+}
+.sobre {
+  	position: absolute;
+  	top: 7401px;
+  	left: 788px;
+  	font-size: 32px;
+}
+.component-62 {
+  	position: absolute;
+  	top: 7461px;
+  	left: 788px;
+  	width: 188px;
+  	height: 26px;
+}
+.component-63 {
+  	position: absolute;
+  	top: 7512px;
+  	left: 788px;
+  	width: 188px;
+  	height: 26px;
+}
+.component-64 {
+  	position: absolute;
+  	top: 7563px;
+  	left: 788px;
+  	width: 171px;
+  	height: 26px;
+}
+.component-65 {
+  	position: absolute;
+  	top: 7614px;
+  	left: 788px;
+  	width: 113px;
+  	height: 26px;
+}
+.component-68 {
+  	position: absolute;
+  	top: 7767px;
+  	left: 788px;
+  	width: 155px;
+  	height: 26px;
+}
+.component-69 {
+  	position: absolute;
+  	top: 7668px;
+  	left: 788px;
+  	width: 246px;
+  	height: 26px;
+}
+.component-70 {
+  	position: absolute;
+  	top: 7719px;
+  	left: 788px;
+  	width: 246px;
+  	height: 26px;
+}
+.contato {
+  	position: absolute;
+  	top: 7401px;
+  	left: 1079px;
+  	font-size: 32px;
+}
+.component-71 {
+  	position: absolute;
+  	top: 7461px;
+  	left: 1079px;
+  	width: 137px;
+  	height: 26px;
+}
+.component-72 {
+  	position: absolute;
+  	top: 7512px;
+  	left: 1079px;
+  	width: 188px;
+  	height: 26px;
+}
+.captura-de-tela-2024-08-02-221 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1332px;
+  	height: 654px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-08-02-2211 {
+  	position: absolute;
+  	top: 0px;
+  	left: 1420px;
+  	width: 1332px;
+  	height: 654px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-08-02-2212 {
+  	position: absolute;
+  	top: 0px;
+  	left: 2840px;
+  	width: 1332px;
+  	height: 654px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-08-02-221-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 4172px;
+  	height: 654px;
+}
+.component-74 {
+  	position: absolute;
+  	top: 4929px;
+  	left: 47px;
+  	background-color: #fff;
+  	width: 1332px;
+  	height: 654px;
+  	overflow: hidden;
+}
+.component-19frame-3-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 417px;
+  	height: 487px;
+  	object-fit: cover;
+}
+.component-19frame-3-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	width: 417px;
+  	height: 487px;
+}
+.plataforma-tecnolgica {
+  	position: absolute;
+  	top: 75px;
+  	left: 91px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 233px;
+  	height: 77px;
+}
+.acesse-nossa-abrangente {
+  	position: absolute;
+  	top: 177px;
+  	left: 34px;
+  	font-size: 20px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 348px;
+  	height: 239px;
+}
+.component-19frame-3 {
+  	position: absolute;
+  	top: 3828px;
+  	left: 61px;
+  	width: 417px;
+  	height: 487px;
+  	text-align: center;
+  	font-size: 32px;
+  	font-family: Inter;
+}
+.compliance-de-rh {
+  	position: absolute;
+  	top: 78px;
+  	left: 87px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 244px;
+  	height: 138px;
+}
+.proteja-sua-empresa {
+  	position: absolute;
+  	top: 235px;
+  	left: 31px;
+  	font-size: 20px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 355px;
+  	height: 164px;
+}
+.component-20frame-3 {
+  	position: absolute;
+  	top: 4338px;
+  	left: 741px;
+  	width: 417px;
+  	height: 487px;
+  	text-align: center;
+  	font-size: 32px;
+  	font-family: Jost;
+}
+.servios-de-folha {
+  	position: absolute;
+  	top: 84px;
+  	left: 70px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 277px;
+  	height: 95px;
+}
+.acesse-uma-soluo {
+  	position: absolute;
+  	top: 194px;
+  	left: 37px;
+  	font-size: 20px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 344px;
+  	height: 173px;
+}
+.component-17frame-3 {
+  	position: absolute;
+  	top: 3828px;
+  	left: 950px;
+  	width: 417px;
+  	height: 487px;
+  	text-align: center;
+  	font-size: 32px;
+  	font-family: Jost;
+}
+.component-16frame-3-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 419px;
+  	height: 489px;
+  	object-fit: cover;
+}
+.component-16frame-3-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	width: 419px;
+  	height: 489px;
+}
+.benefcios {
+  	position: absolute;
+  	top: 135px;
+  	left: 135px;
+  	font-weight: 600;
+}
+.acesse-os-benefcios {
+  	position: absolute;
+  	top: 195px;
+  	left: 37px;
+  	font-size: 20px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 345px;
+  	height: 127px;
+}
+.component-16frame-3 {
+  	position: absolute;
+  	top: 4338px;
+  	left: 269px;
+  	width: 419px;
+  	height: 489px;
+  	text-align: center;
+  	font-size: 32px;
+  	font-family: Jost;
+}
+.expertise-em-rh {
+  	position: absolute;
+  	top: 133px;
+  	left: 87px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 245px;
+  	height: 62px;
+}
+.conte-com-nossa {
+  	position: absolute;
+  	top: 195px;
+  	left: 29px;
+  	font-size: 20px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 361px;
+  	height: 194px;
+}
+.component-14frame-3 {
+  	position: absolute;
+  	top: 3828px;
+  	left: 503px;
+  	width: 419px;
+  	height: 489px;
+  	text-align: center;
+  	font-size: 32px;
+  	font-family: Jost;
+}
+.acesse-nossa-abrangente1 {
+  	position: absolute;
+  	top: 298px;
+  	left: 56px;
+  	display: inline-block;
+  	width: 826px;
+  	height: 293px;
+  	opacity: 0;
+}
+.plataforma-digital {
+  	position: absolute;
+  	top: 147px;
+  	left: 514px;
+  	font-size: 48px;
+  	font-weight: 800;
+  	text-align: center;
+  	opacity: 0;
+}
+.banner-4-child {
+  	position: absolute;
+  	top: 257px;
+  	left: 1460px;
+  	border-radius: 72px 0px 0px 72px;
+  	background-color: rgba(9, 6, 41, 0.81);
+  	width: 536px;
+  	height: 334px;
+}
+.notebook-ban-laptop-1-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 380px;
+  	height: 251px;
+  	object-fit: cover;
+}
+.ae806e991bda08a9131d6fa9d7129-icon {
+  	position: absolute;
+  	top: 22px;
+  	left: 41px;
+  	width: 298px;
+  	height: 191px;
+  	object-fit: cover;
+}
+.notebook-ban-laptop-1-parent {
+  	position: absolute;
+  	top: 298px;
+  	left: 1494px;
+  	width: 380px;
+  	height: 263px;
+}
+.component-7 {
+  	position: absolute;
+  	top: 610px;
+  	left: -302px;
+  	width: 287px;
+  	height: 54px;
+  	font-size: 24px;
+  	color: #fff;
+  	font-family: Kanit;
+}
+.notebook-ban-mobile-1-icon {
+  	position: absolute;
+  	top: 332px;
+  	left: 1804px;
+  	width: 140px;
+  	height: 322px;
+  	object-fit: cover;
+}
+.ff60552d517e4ec7c39e16988bccb2-icon {
+  	position: absolute;
+  	top: 373px;
+  	left: 1816px;
+  	width: 116px;
+  	height: 220px;
+  	object-fit: cover;
+}
+.banner-4 {
+  	position: absolute;
+  	top: 2743px;
+  	left: -14px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 812px;
+  	overflow: hidden;
+  	font-size: 32px;
+  	color: #000;
+  	font-family: Jost;
+}
+.acesse-nossa-abrangente2 {
+  	position: absolute;
+  	top: 2945px;
+  	left: 48px;
+  	font-size: 32px;
+  	font-family: Jost;
+  	color: #000;
+  	display: inline-block;
+  	width: 826px;
+  	height: 293px;
+}
+.plataforma-digital1 {
+  	position: absolute;
+  	top: 2843px;
+  	left: 506px;
+  	font-size: 48px;
+  	font-weight: 800;
+  	font-family: Jost;
+  	color: #000;
+  	text-align: center;
+}
+.component-73 {
+  	position: absolute;
+  	top: 3269px;
+  	left: 35px;
+  	width: 287px;
+  	height: 54px;
+  	font-size: 24px;
+  	font-family: Kanit;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 2904px;
+  	left: 919px;
+  	border-radius: 72px 0px 0px 72px;
+  	background-color: rgba(9, 6, 41, 0.81);
+  	width: 536px;
+  	height: 334px;
+}
+.notebook-ban-laptop-1-group {
+  	position: absolute;
+  	top: 2965px;
+  	left: 963px;
+  	width: 380px;
+  	height: 263px;
+}
+.notebook-ban-mobile-1-icon1 {
+  	position: absolute;
+  	top: 3058px;
+  	left: 1264px;
+  	width: 140px;
+  	height: 322px;
+  	object-fit: cover;
+}
+.ff60552d517e4ec7c39e16988bccb2-icon1 {
+  	position: absolute;
+  	top: 3106px;
+  	left: 1276px;
+  	width: 116px;
+  	height: 211px;
+  	object-fit: cover;
+}
+.que-solues-podemos {
+  	position: absolute;
+  	top: 1977px;
+  	left: 404px;
+  	font-size: 40px;
+  	display: inline-block;
+  	font-family: Jost;
+  	color: #000;
+  	width: 642px;
+  	height: 55px;
+}
+.voc-no-precisa {
+  	position: absolute;
+  	top: 2058px;
+  	left: 125px;
+  	font-size: 24px;
+  	font-family: Jost;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 1184px;
+  	height: 180px;
+}
+.work-child1 {
+  	position: absolute;
+  	top: 2233px;
+  	left: 85px;
+  	border-radius: 25px;
+  	background-color: #445d9c;
+  	width: 385px;
+  	height: 418px;
+}
+.transforme-seu-rh {
+  	position: absolute;
+  	top: 2462px;
+  	left: 95px;
+  	font-size: 19px;
+  	line-height: 144.41%;
+  	font-family: Jost;
+  	text-align: center;
+  	display: inline-block;
+  	width: 364px;
+}
+.component-11-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 11px;
+  	width: 385px;
+  	height: 186px;
+  	object-fit: cover;
+}
+.component-11-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 11px;
+  	background-color: rgba(0, 0, 0, 0);
+  	width: 385px;
+  	height: 186px;
+}
+.mais-detalhes {
+  	position: absolute;
+  	top: 93px;
+  	left: 102px;
+  	font-weight: 600;
+}
+.component-11 {
+  	position: absolute;
+  	top: 2233px;
+  	left: 85px;
+  	width: 385px;
+  	height: 186px;
+  	text-align: center;
+  	font-size: 29px;
+  	color: rgba(255, 255, 255, 0);
+  	font-family: Jost;
+}
+.work-child2 {
+  	position: absolute;
+  	top: 2233px;
+  	left: 534px;
+  	border-radius: 25px;
+  	background-color: #445d9c;
+  	width: 385px;
+  	height: 418px;
+}
+.nossa-plataforma-de {
+  	position: absolute;
+  	top: 2486px;
+  	left: 544px;
+  	line-height: 144.41%;
+  	font-family: Jost;
+  	text-align: center;
+  	display: inline-block;
+  	width: 372px;
+  	height: 118px;
+}
+.component-9 {
+  	position: absolute;
+  	top: 2233px;
+  	left: 532px;
+  	width: 385px;
+  	height: 203px;
+  	text-align: center;
+  	font-size: 29px;
+  	color: rgba(255, 255, 255, 0);
+  	font-family: Jost;
+}
+.work-child3 {
+  	position: absolute;
+  	top: 2233px;
+  	left: 994px;
+  	border-radius: 25px;
+  	background-color: #445d9c;
+  	width: 385px;
+  	height: 430px;
+}
+.ao-conectar-rh {
+  	position: absolute;
+  	top: 2460px;
+  	left: 1006px;
+  	font-size: 19px;
+  	line-height: 144.41%;
+  	font-family: Jost;
+  	text-align: center;
+  	display: inline-block;
+  	width: 364px;
+  	height: 130px;
+}
+.component-10 {
+  	position: absolute;
+  	top: 2233px;
+  	left: 993px;
+  	width: 385px;
+  	height: 186px;
+  	text-align: center;
+  	font-size: 29px;
+  	color: rgba(255, 255, 255, 0);
+  	font-family: Jost;
+}
+.captura-de-tela-2024-08-02-221-group {
+  	position: absolute;
+  	top: 0px;
+  	left: -2840px;
+  	width: 4172px;
+  	height: 654px;
+}
+.component-73frame-4 {
+  	position: absolute;
+  	top: 1238px;
+  	left: 38px;
+  	background-color: #fff;
+  	width: 1332px;
+  	height: 654px;
+  	overflow: hidden;
+}
+.captura-de-tela-2024-08-03-172 {
+  	position: absolute;
+  	top: 6007px;
+  	left: -4px;
+  	width: 1440px;
+  	height: 702px;
+  	object-fit: cover;
+}
+.work {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 8051px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 20px;
+  	color: #fff;
+  	font-family: JejuGothic;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+	</style>
+  	
+</body>
+</html>
